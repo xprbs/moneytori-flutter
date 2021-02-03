@@ -1,4 +1,4 @@
-# moneytory
+# moneytory Apps
 
 A new Flutter project.
 
